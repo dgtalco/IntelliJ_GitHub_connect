@@ -9,6 +9,10 @@ public class TestGitHub1 {
         //notes
         //notes new
         System.out.println("mac and windows users are happy");
+        // I have already published on Github.com
+        //now i am ready to make more commits
+        // but do I need to share again????
+        //ABSOLUTELY, NO!
 
     }
 }
