@@ -8,6 +8,7 @@ public class TestGitHub1 {
         System.out.println("Hello again");
         //notes
         //notes new
+        System.out.println("mac and windows users are happy");
 
     }
 }
